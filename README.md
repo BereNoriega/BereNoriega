@@ -24,6 +24,13 @@ Neuroscience graduate transitioning into Data Analytics and Machine Learning, wi
 - 🏆 Oracle Next Education Hackathon
   
 
+## Certifications
+
+☁️ Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+
+☁️ Oracle Cloud Infrastructure 2025 Certified Foundations Associate
+
+
 ## Featured Projects
 
 ### 🎧 Auditory Stimulus Generation
@@ -54,10 +61,4 @@ Machine Learning pipeline for customer churn prediction, including data preproce
 **Technologies:**
 Python • pandas • NumPy • scikit-learn • Machine Learning
 
-
-## Certifications
-
-☁️ Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
-
-☁️ Oracle Cloud Infrastructure 2025 Certified Foundations Associate
 
