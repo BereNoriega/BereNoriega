@@ -35,7 +35,7 @@ Neuroscience graduate transitioning into Data Analytics and Machine Learning, wi
 
 ### 🎧 Auditory Stimulus Generation
 
-Python-based software for generating customizable auditory stimuli for psychophysical experiments, including temporal jitter manipulation and experimental protocol implementation.
+Python-based software for generating customizable auditory stimuli for psychophysical experiments, including spectral jitter manipulation and experimental protocol implementation.
 
 **Technologies:**
 Python • NumPy • Scientific Computing • Signal Processing
