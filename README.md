@@ -1,6 +1,6 @@
 👋 Hi! I'm Berenice
 
-Neuroscience graduate transitioning into Data Analytics and Machine Learning, with a passion for scientific computing and building data-driven solutions.
+Neuroscience graduate working in Data Analytics and E-commerce Operations, with a background in Machine Learning, scientific computing and data-driven research.
 
 ## About Me
 
@@ -20,7 +20,6 @@ Neuroscience graduate transitioning into Data Analytics and Machine Learning, wi
 
 ## Currently Working On
 
-- 💼 Squad Expert | E-commerce & On-Demand Operations | Data Analytics
 - 📄 Research manuscript on auditory perception and temporal predictability.
   
 
