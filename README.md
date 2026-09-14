@@ -33,6 +33,13 @@ Neuroscience graduate transitioning into Data Analytics and Machine Learning, wi
 
 ## Featured Projects
 
+### 🤖 TechMind — Technical Resource Recommendation
+Team 19, G9 - ONE LATAM.
+Collaborative project developed during the No Country Hackathon — ONE G9 Alura + Oracle, where we built a platform for discovering and organizing relevant technical resources using text analysis and machine learning-based recommendations. Worked as Data Science Lead, developing the recommendation pipeline and coordinating with the Backend and Frontend teams. Finalist project.
+
+**Technologies:**
+Python • NLP • Embeddings • Machine Learning • OCI • API Integration • Git/GitHub
+
 ### 🎧 Auditory Stimulus Generation
 
 Python-based software for generating customizable auditory stimuli for psychophysical experiments, including spectral jitter manipulation and experimental protocol implementation.
