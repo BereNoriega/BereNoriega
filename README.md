@@ -20,8 +20,8 @@ Neuroscience graduate transitioning into Data Analytics and Machine Learning, wi
 
 ## Currently Working On
 
-- 📄 Research manuscript on auditory perception and temporal predictability
-- 🏆 Oracle Next Education Hackathon
+- 💼 Squad Expert | E-commerce & On-Demand Operations | Data Analytics
+- 📄 Research manuscript on auditory perception and temporal predictability.
   
 
 ## Certifications
